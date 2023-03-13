@@ -1,0 +1,8 @@
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\obj\Debug\tugas3.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\obj\Debug\tugas3.MainForm.resources
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\obj\Debug\tugas3.csproj.GenerateResource.Cache
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\bin\Debug\tugas3.exe.config
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\bin\Debug\tugas3.exe
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\bin\Debug\tugas3.pdb
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\obj\Debug\tugas3.exe
+D:\Kuliah\Semester II\Pemrograman\Tugas\tugas3\tugas3\obj\Debug\tugas3.pdb
